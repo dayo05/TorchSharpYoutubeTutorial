@@ -2,9 +2,9 @@
 TorchSharp youtube tutorial code
 
 
-01. Linear regression with torchsharp
+01: Linear regression with torchsharp
 
-01. TorchSharp을 이용한 선형회귀
+01: TorchSharp을 이용한 선형회귀
 
 
 01-Unity: Linear regression visualization with unity - Server side code
@@ -14,8 +14,8 @@ TorchSharp youtube tutorial code
 (TorchSharp requires .NET5 which unity not supports, so I make it for socket server, receive via socket on unity)
 
 
-02. Multy parameter linear regression
+02: Multy parameter linear regression
 
-02. 다중변수 선형회귀
+02: 다중변수 선형회귀
 
 ...TODO!
